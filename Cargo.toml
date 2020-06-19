@@ -1,0 +1,12 @@
+[package]
+name = "rust-workshop"
+version = "0.1.0"
+authors = ["Arild Nilsen", "Eirik Bertelsen"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+crossbeam = "0.7"
+assert_approx_eq = "1.1.0"
+
